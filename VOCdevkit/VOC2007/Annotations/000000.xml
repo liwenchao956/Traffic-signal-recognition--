@@ -1,0 +1,26 @@
+<annotation>
+	<folder>李娜</folder>
+	<filename>000000.jpg</filename>
+	<path>C:\Users\CUST_MVR\Desktop\李娜\000000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>104</ymin>
+			<xmax>448</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

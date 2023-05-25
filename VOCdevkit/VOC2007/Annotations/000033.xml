@@ -1,0 +1,26 @@
+<annotation>
+	<folder>赵丹丹</folder>
+	<filename>000033.jpg</filename>
+	<path>C:\Users\zdd\Desktop\赵丹丹\000033.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1696</width>
+		<height>1004</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>74</ymin>
+			<xmax>472</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

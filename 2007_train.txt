@@ -1,0 +1,450 @@
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000000.jpg 420,104,448,130,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000001.jpg 417,102,453,134,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000002.jpg 416,44,444,69,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000003.jpg 417,43,445,72,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000004.jpg 222,63,316,147,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000005.jpg 218,63,312,152,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000006.jpg 227,64,312,147,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000007.jpg 299,49,331,77,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000008.jpg 301,48,331,76,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000012.jpg 354,51,384,81,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000014.jpg 305,51,327,77,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000015.jpg 154,283,179,309,0 460,380,474,398,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000018.jpg 154,333,178,357,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000019.jpg 281,105,317,133,2
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000020.jpg 347,354,375,377,0 470,349,515,381,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000021.jpg 344,351,375,379,0 468,350,512,379,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000022.jpg 583,533,625,563,0 517,485,535,509,0 183,583,196,600,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000023.jpg 583,528,629,564,0 518,494,537,511,0 187,585,192,600,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000024.jpg 591,598,620,628,1 521,495,540,515,0 183,583,199,602,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000025.jpg 588,561,627,596,2 512,490,542,516,0 185,583,196,602,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000026.jpg 221,57,314,146,1 150,61,211,154,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000027.jpg 259,239,287,269,0 270,396,290,422,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000029.jpg 1156,292,1175,308,12 848,100,877,129,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000030.jpg 842,93,877,124,1 1158,286,1175,309,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000032.jpg 1154,267,1181,294,13 838,71,876,113,2
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000033.jpg 433,74,472,109,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000034.jpg 378,280,418,318,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000035.jpg 458,281,496,317,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000036.jpg 583,564,621,596,2 181,583,197,597,12 517,491,538,512,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000037.jpg 235,33,265,63,1 339,30,365,70,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000038.jpg 235,31,264,64,1 318,28,367,68,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000039.jpg 320,27,369,70,10 235,33,265,64,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000040.jpg 235,32,264,65,1 327,29,367,66,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000041.jpg 341,31,370,70,10 233,33,263,64,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000042.jpg 233,31,265,61,1 318,27,370,68,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000043.jpg 318,27,366,69,10 234,34,265,63,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000045.jpg 341,29,369,68,10 233,32,266,63,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000046.jpg 233,33,264,62,1 319,28,368,67,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000047.jpg 318,27,365,68,10 233,33,266,63,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000048.jpg 234,32,265,63,1 332,28,367,69,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000050.jpg 240,91,274,126,0 390,79,461,133,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000051.jpg 413,81,457,129,9 241,93,278,129,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000052.jpg 238,92,275,129,0 406,82,463,130,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000053.jpg 422,80,455,133,9 239,93,275,128,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000054.jpg 320,87,361,126,1 395,80,457,134,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000056.jpg 323,88,358,126,1 413,84,455,132,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000057.jpg 423,83,456,131,10 323,87,357,127,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000058.jpg 278,90,318,127,2 427,83,461,132,11
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000059.jpg 240,92,276,129,0 394,83,457,129,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000060.jpg 395,80,458,132,9 237,93,277,131,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000061.jpg 241,95,275,129,0 394,84,456,132,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000062.jpg 415,80,458,131,9 240,93,275,126,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000063.jpg 239,91,275,130,0 421,83,456,129,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000064.jpg 438,84,458,129,9 237,91,277,129,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000065.jpg 322,89,357,124,1 396,80,456,131,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000066.jpg 395,81,454,132,10 322,91,358,125,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000067.jpg 322,87,357,125,1 415,84,459,130,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000068.jpg 423,84,457,131,10 320,90,360,125,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000069.jpg 278,90,317,126,2 440,85,455,128,11
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000070.jpg 238,93,276,129,0 396,81,454,130,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000071.jpg 396,79,456,130,9 238,92,278,128,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000072.jpg 240,92,275,129,0 396,83,457,131,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000074.jpg 240,93,276,130,0 423,81,457,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000075.jpg 319,89,359,125,1 396,81,458,133,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000076.jpg 320,90,360,125,1 394,80,455,131,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000077.jpg 321,90,360,125,1 393,83,456,133,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000078.jpg 322,89,358,127,1 409,83,458,134,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000079.jpg 320,88,359,126,1 424,84,458,127,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000080.jpg 238,91,279,131,0 396,81,456,131,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000081.jpg 239,93,276,129,0 398,80,455,131,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000083.jpg 239,92,275,128,0 396,81,459,131,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000084.jpg 239,91,276,129,0 412,81,456,130,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000085.jpg 239,93,274,127,0 420,82,458,130,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000087.jpg 320,90,357,125,1 395,80,458,132,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000089.jpg 321,89,359,127,1 410,80,459,131,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000090.jpg 318,90,359,125,1 424,81,455,131,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000092.jpg 239,92,276,129,0 395,80,456,132,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000094.jpg 238,91,278,129,0 412,80,453,130,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000095.jpg 240,91,275,129,0 413,81,457,129,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000096.jpg 417,105,449,131,1 487,98,524,133,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000097.jpg 419,106,447,129,1 491,97,524,134,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000098.jpg 391,107,421,131,2 506,98,525,131,11
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000099.jpg 364,105,391,131,0 478,99,522,134,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000100.jpg 363,106,391,131,0 477,101,523,134,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000101.jpg 363,107,391,131,0 476,99,521,134,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000102.jpg 362,107,392,134,0 489,99,523,133,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000103.jpg 364,107,391,132,0 496,101,522,132,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000104.jpg 417,104,449,130,1 479,97,521,134,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000105.jpg 418,104,448,131,1 479,99,520,133,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000106.jpg 418,105,448,130,1 477,99,524,134,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000107.jpg 416,102,448,131,1 489,99,520,135,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000108.jpg 417,105,447,131,1 495,100,523,133,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000109.jpg 363,107,391,133,0 476,100,521,133,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000110.jpg 363,105,391,133,0 480,98,522,136,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000111.jpg 363,106,392,134,0 477,99,521,135,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000112.jpg 362,107,392,133,0 488,100,525,134,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000113.jpg 363,107,390,131,0 490,98,521,133,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000114.jpg 363,106,391,133,0 496,100,524,133,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000115.jpg 416,105,449,131,1 478,100,523,135,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000117.jpg 415,104,448,132,1 490,99,523,133,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000118.jpg 416,105,448,131,1 487,99,523,133,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000120.jpg 473,100,527,134,9 355,109,397,133,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000121.jpg 363,109,390,133,0 475,101,525,132,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000122.jpg 364,107,390,133,0 477,98,523,135,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000123.jpg 363,110,392,133,0 477,102,525,131,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000124.jpg 362,109,391,130,0 483,100,521,132,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000125.jpg 417,107,450,129,1 473,100,522,132,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000126.jpg 419,104,448,132,1 478,100,523,132,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000129.jpg 415,105,453,131,1 488,101,527,136,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000130.jpg 391,107,420,130,2 497,100,523,133,11
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000131.jpg 364,107,391,132,0 476,102,520,133,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000132.jpg 404,350,435,377,1 467,347,512,380,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000133.jpg 406,351,434,376,1 473,347,517,380,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000135.jpg 344,352,377,378,0 469,348,515,382,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000137.jpg 297,84,317,105,12 300,61,317,82,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000140.jpg 405,352,433,376,1 475,348,521,379,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000141.jpg 346,350,374,377,0 467,346,515,381,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000142.jpg 404,350,433,379,1 467,348,517,383,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000143.jpg 404,350,433,378,1 468,346,515,380,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000144.jpg 403,351,435,377,1 475,348,513,383,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000145.jpg 404,350,433,375,1 488,349,517,382,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000147.jpg 404,349,432,377,1 469,346,512,382,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000148.jpg 296,82,317,106,12 298,57,316,80,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000149.jpg 404,350,431,377,1 469,341,509,381,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000150.jpg 406,350,434,378,1 481,348,517,384,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000151.jpg 358,105,389,136,0 477,101,520,144,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000152.jpg 362,104,390,132,0 478,98,516,136,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000154.jpg 361,106,391,136,0 487,98,522,133,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000155.jpg 364,107,389,132,0 488,98,521,131,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000157.jpg 418,104,451,137,1 479,100,515,136,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000158.jpg 293,83,317,107,12 300,61,319,80,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000159.jpg 298,36,319,57,13 293,61,317,85,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000160.jpg 294,37,318,61,13 296,62,320,85,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000161.jpg 295,83,318,106,12 300,61,318,79,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000162.jpg 295,83,316,105,12 297,59,318,82,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000164.jpg 298,37,318,58,13 296,62,320,85,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000165.jpg 344,347,376,382,0 467,349,521,380,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000166.jpg 405,348,433,380,1 470,348,515,386,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000167.jpg 299,36,316,59,13 299,61,315,84,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000168.jpg 397,348,433,376,1 467,348,515,381,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000170.jpg 247,272,270,301,0 238,206,283,243,9 244,389,264,411,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000171.jpg 249,275,272,300,0 246,207,288,243,9 244,389,268,412,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000174.jpg 248,272,274,300,0 244,212,281,242,9 248,389,262,413,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000175.jpg 248,274,274,299,0 245,211,284,244,9 244,393,262,411,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000177.jpg 243,274,269,300,0 242,207,278,243,9 244,391,263,410,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000178.jpg 295,36,318,59,0 300,63,318,81,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000179.jpg 243,276,271,304,0 251,209,286,244,9 244,391,261,408,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000181.jpg 246,273,271,298,0 242,208,284,250,9 249,394,261,412,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000184.jpg 249,274,274,298,0 246,204,281,245,9 239,381,261,411,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000187.jpg 243,268,274,300,0 250,209,283,237,9 244,386,259,411,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000189.jpg 244,272,273,296,0 244,209,281,242,9 244,387,261,415,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000190.jpg 249,271,270,298,0 242,212,283,243,9 246,387,264,411,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000191.jpg 245,270,275,299,0 246,211,280,242,9 242,393,268,414,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000192.jpg 245,274,278,302,0 241,207,281,243,9 246,391,260,411,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000193.jpg 246,272,272,296,0 245,213,283,240,9 246,387,262,413,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000194.jpg 251,273,275,302,0 245,206,283,239,9 245,394,261,414,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000195.jpg 248,271,275,297,0 241,209,287,243,9 245,389,263,412,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000196.jpg 242,272,272,298,0 239,210,279,241,9 249,389,263,415,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000197.jpg 248,278,274,299,0 240,209,285,243,9 244,388,259,411,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000198.jpg 323,129,347,148,0 328,112,348,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000199.jpg 324,128,349,150,0 327,109,348,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000200.jpg 321,166,349,182,1 324,112,350,127,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000201.jpg 322,168,347,183,1 324,111,348,129,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000202.jpg 322,167,346,183,1 331,112,350,128,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000203.jpg 325,129,346,147,0 327,113,346,126,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000204.jpg 325,131,348,147,0 324,111,349,126,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000205.jpg 327,131,349,148,0 326,111,349,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000207.jpg 325,129,345,148,0 325,111,346,128,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000209.jpg 321,131,349,148,0 327,113,349,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000210.jpg 325,132,351,145,0 327,111,354,129,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000212.jpg 326,131,345,147,0 328,112,351,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000213.jpg 325,130,347,145,0 327,111,349,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000214.jpg 325,169,346,184,1 329,114,349,128,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000216.jpg 324,168,346,183,1 329,114,349,128,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000217.jpg 328,129,345,145,0 327,113,349,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000218.jpg 326,130,346,146,0 324,110,348,128,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000219.jpg 327,130,348,148,0 325,112,350,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000220.jpg 328,132,350,149,0 323,112,353,129,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000222.jpg 326,131,344,145,0 325,111,347,125,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000223.jpg 325,131,350,149,0 326,112,351,127,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000224.jpg 326,134,349,150,0 327,112,348,128,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000225.jpg 237,35,263,60,1 329,30,368,71,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000226.jpg 234,31,263,62,1 326,29,370,71,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000228.jpg 231,31,263,63,1 318,28,369,68,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000229.jpg 234,33,267,59,1 326,29,368,71,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000230.jpg 82,59,113,98,0 674,1,713,32,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000231.jpg 137,158,167,191,0 1208,237,1265,268,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000233.jpg 97,64,129,91,1 699,121,719,150,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000234.jpg 105,66,125,97,1 696,119,728,153,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000235.jpg 102,62,124,93,1 693,118,723,154,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000236.jpg 93,61,128,93,1 698,121,724,151,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000237.jpg 105,65,129,97,1 696,120,727,149,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000241.jpg 96,65,136,99,1 94,36,135,64,10 699,117,734,155,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000243.jpg 94,60,138,100,1 691,114,739,162,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000244.jpg 95,5,141,38,0 695,55,732,87,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000245.jpg 93,7,149,39,0 699,54,728,92,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000246.jpg 132,155,177,195,0 1223,235,1277,280,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000247.jpg 95,63,133,97,1 693,115,735,155,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000249.jpg 99,58,141,101,1 688,117,743,165,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000250.jpg 99,58,137,97,1 689,109,732,155,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000251.jpg 87,58,143,104,1 688,115,735,156,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000252.jpg 95,62,135,99,1 692,115,744,162,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000253.jpg 88,61,142,104,1 691,116,738,159,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000254.jpg 88,58,142,102,1 686,114,737,158,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000255.jpg 95,61,142,105,1 688,115,735,158,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000256.jpg 93,64,142,97,1 691,115,742,159,1 89,32,151,62,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000257.jpg 94,65,138,99,1 98,29,137,65,10 693,113,732,158,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000258.jpg 99,63,131,101,1 689,114,737,167,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000259.jpg 96,5,145,40,0 692,44,728,100,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000260.jpg 90,7,139,44,0 698,53,730,100,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000261.jpg 88,33,129,66,0 691,21,723,59,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000262.jpg 89,31,126,63,0 92,63,129,97,9 689,22,720,68,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000264.jpg 88,32,120,61,0 694,28,720,67,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000265.jpg 92,29,124,62,0 695,26,721,65,0 92,65,130,94,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000266.jpg 88,87,132,126,1 695,87,727,136,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000267.jpg 86,93,137,122,1 692,86,738,137,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000268.jpg 92,87,129,126,1 691,88,730,130,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000269.jpg 88,89,131,125,1 684,87,728,130,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000270.jpg 92,87,145,130,1 689,85,725,130,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000271.jpg 95,85,138,124,1 693,87,726,130,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000272.jpg 95,84,128,128,1 688,87,730,130,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000273.jpg 87,86,142,126,1 687,86,734,132,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000274.jpg 88,87,131,122,1 688,87,733,132,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000276.jpg 89,89,136,134,1 81,59,142,88,10 691,89,737,133,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000277.jpg 92,88,135,125,1 693,88,727,126,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000279.jpg 90,90,135,122,1 688,87,740,132,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000280.jpg 88,87,129,126,1 687,85,733,130,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000282.jpg 92,83,131,125,1 686,88,731,131,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000285.jpg 92,85,135,123,1 688,88,729,128,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000286.jpg 93,84,132,126,1 690,85,726,133,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000287.jpg 85,83,140,132,1 689,87,737,128,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000288.jpg 88,81,136,132,1 686,87,737,130,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000289.jpg 86,90,131,122,1 87,60,125,88,10 687,84,727,123,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000290.jpg 153,216,234,272,1 1079,86,1121,128,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000291.jpg 152,214,221,276,1 1074,89,1115,141,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000292.jpg 146,212,231,279,1 1071,87,1139,134,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000293.jpg 149,213,231,280,1 1074,86,1131,134,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000294.jpg 127,211,238,274,1 1058,80,1122,135,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000295.jpg 132,213,235,278,1 1069,80,1118,129,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000296.jpg 145,215,226,273,1 1065,80,1119,134,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000297.jpg 148,209,234,275,1 1065,92,1133,141,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000298.jpg 139,199,232,275,1 1072,83,1127,131,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000299.jpg 115,53,133,73,0 215,50,234,73,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000300.jpg 114,54,134,72,0 211,51,237,72,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000301.jpg 111,52,136,73,0 211,53,239,72,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000302.jpg 113,52,137,74,0 213,50,234,68,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000303.jpg 115,55,139,73,0 211,50,237,71,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000304.jpg 115,51,134,72,0 215,51,236,70,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000305.jpg 112,51,136,75,0 215,48,232,69,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000306.jpg 115,57,137,72,0 213,53,236,70,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000307.jpg 115,55,136,71,0 215,51,241,74,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000308.jpg 114,55,136,73,0 214,51,238,70,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000309.jpg 480,288,532,341,1 475,385,503,416,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000310.jpg 463,280,540,340,1 476,385,503,412,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000312.jpg 475,290,525,342,1 469,389,497,409,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000313.jpg 470,289,532,338,1 474,390,499,414,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000315.jpg 400,293,437,332,0 456,391,472,403,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000316.jpg 398,296,437,333,0 457,392,473,404,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000317.jpg 398,293,439,334,0 458,390,471,404,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000318.jpg 398,295,438,334,0 458,390,473,404,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000319.jpg 398,293,438,333,0 456,390,471,403,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000321.jpg 482,293,522,333,1 478,393,490,404,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000322.jpg 485,291,524,334,1 479,392,492,403,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000323.jpg 480,293,521,331,1 476,393,492,404,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000324.jpg 479,291,521,332,1 476,392,490,403,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000325.jpg 478,292,522,332,1 477,391,488,404,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000326.jpg 483,291,523,333,1 477,390,491,404,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000327.jpg 479,290,524,332,1 477,391,491,403,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000328.jpg 399,294,438,335,0 459,391,473,404,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000329.jpg 398,295,439,335,0 457,391,471,406,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000331.jpg 481,291,523,332,1 477,391,491,404,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000332.jpg 479,290,522,335,1 477,389,491,404,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000333.jpg 480,291,525,334,1 477,392,492,405,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000334.jpg 94,121,120,147,1 687,61,716,88,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000335.jpg 94,123,119,148,1 687,59,717,91,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000336.jpg 93,122,120,148,1 688,60,716,89,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000337.jpg 96,122,118,148,1 688,61,717,91,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000338.jpg 92,121,121,149,1 688,60,714,91,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000339.jpg 95,120,119,147,1 686,61,716,89,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000340.jpg 95,121,120,148,1 689,60,717,89,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000341.jpg 94,121,119,148,1 690,60,716,89,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000342.jpg 93,122,120,148,1 688,61,715,88,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000343.jpg 94,123,120,148,1 688,61,717,88,1 90,96,117,121,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000344.jpg 90,93,114,119,10 93,122,120,150,1 688,60,716,88,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000345.jpg 96,120,121,149,1 686,60,715,89,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000346.jpg 86,64,112,91,0 685,1,710,27,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000347.jpg 223,62,245,85,0 248,64,267,85,9 123,61,147,83,4
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000348.jpg 125,61,145,82,4 105,61,123,82,10 266,63,289,87,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000349.jpg 265,64,289,86,1 124,62,146,82,4
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000350.jpg 292,96,307,108,4 846,120,890,166,4 370,93,382,108,1 942,114,990,163,1 694,197,704,211,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000351.jpg 695,197,704,213,12 369,91,380,104,1 943,116,985,165,1 844,124,891,167,4 295,96,304,110,4
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000352.jpg 292,96,304,109,4 843,122,892,166,4 941,114,987,162,1 370,94,384,108,1 693,197,705,210,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000355.jpg 844,122,892,168,4 292,95,305,109,4 941,115,988,164,1 369,94,379,106,1 693,197,704,210,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000356.jpg 843,122,892,168,4 295,95,304,107,4 370,95,380,108,1 939,119,992,162,1 693,197,705,211,12 280,95,296,110,10
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000357.jpg 284,93,294,112,10 294,92,304,109,4 842,123,895,166,4 367,94,379,108,1 937,115,985,162,1 851,76,889,117,10 691,197,706,211,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000358.jpg 692,199,704,211,12 285,94,293,107,10 852,72,889,118,10 295,95,306,111,4 848,126,894,168,4 938,117,991,162,1 368,94,380,110,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000359.jpg 852,73,897,117,10 280,97,293,110,10 292,95,305,110,4 846,124,889,169,4 368,93,384,106,1 942,117,987,161,1 695,199,707,212,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000360.jpg 854,69,893,119,10 292,97,303,109,4 368,93,381,107,1 934,117,987,164,1 692,199,706,210,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000361.jpg 848,76,891,117,9 284,96,293,110,9 292,96,303,110,4 846,123,891,165,4 938,116,988,163,1 369,93,380,108,1 693,196,704,212,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000362.jpg 845,71,898,116,5 282,96,294,109,5 370,94,379,106,1 938,114,987,163,1 691,197,705,210,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000363.jpg 268,94,285,110,3 856,17,905,62,3 368,92,384,108,1 941,111,984,163,1 693,197,705,211,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000366.jpg 694,199,704,211,12 942,118,986,161,1 369,95,379,107,1 853,16,898,64,3 274,97,282,108,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000367.jpg 853,21,900,64,3 273,95,284,109,3 369,94,381,107,1 940,116,988,159,1 695,199,705,212,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000369.jpg 857,20,901,64,3 271,95,285,109,3 367,94,381,106,1 938,114,987,163,1 693,197,704,211,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000370.jpg 670,276,681,291,13 164,144,178,159,3 710,72,762,117,3 256,146,268,161,0 816,68,875,124,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000372.jpg 668,274,681,290,13 709,73,756,119,3 164,144,175,158,3 253,146,268,162,0 817,70,873,122,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000374.jpg 671,272,681,288,13 161,144,177,158,3 711,71,755,117,3 253,147,270,161,0 816,68,871,119,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000375.jpg 813,65,871,118,0 256,147,267,158,0 164,146,175,158,3 700,68,755,119,3 666,273,682,288,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000376.jpg 712,72,756,117,3 164,145,177,161,3 256,147,268,162,0 818,70,877,120,0 670,276,684,291,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000379.jpg 670,278,684,290,13 255,147,269,160,0 815,71,873,122,0 166,146,175,158,3 710,71,756,119,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000380.jpg 671,276,685,288,13 714,73,757,118,3 163,144,176,159,3 256,147,268,160,0 815,68,872,120,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000382.jpg 669,277,684,289,13 712,70,755,120,3 164,144,177,160,3 255,148,271,163,0 816,71,870,121,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000383.jpg 817,69,872,121,0 259,148,269,161,0 707,71,759,118,3 164,146,176,158,3 670,273,680,289,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000384.jpg 670,274,684,289,13 709,67,756,119,3 165,147,176,157,3 256,146,271,162,0 821,68,871,118,0
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000385.jpg 821,69,875,123,0 255,145,271,162,0 710,72,756,117,3 164,147,177,159,3 667,277,685,291,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000387.jpg 163,145,176,159,3 707,71,757,115,3 257,145,268,160,0 816,71,872,121,0 671,278,684,290,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000388.jpg 668,278,682,289,13 817,68,874,124,0 257,147,269,161,0 165,145,176,159,3 710,71,760,118,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000389.jpg 709,72,756,120,3 164,144,174,159,3 255,147,267,161,0 816,67,871,119,0 670,276,681,289,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000390.jpg 819,69,875,120,0 712,73,757,118,3 253,146,272,161,0 164,146,178,158,3 670,274,683,292,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000391.jpg 821,69,875,124,0 710,70,757,117,3 255,146,270,163,0 162,144,177,159,3 670,275,681,290,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000392.jpg 817,67,873,123,0 709,70,761,117,3 256,147,270,159,0 162,146,177,158,3 669,274,683,292,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000393.jpg 162,143,175,163,3 255,146,273,164,0 709,70,759,120,3 812,66,875,124,0 670,276,681,290,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000394.jpg 158,142,177,160,3 713,71,756,117,3 254,146,270,159,0 819,69,877,124,0 672,274,681,290,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000395.jpg 670,274,683,290,13 819,70,877,122,0 256,146,270,159,0 162,146,179,158,3 708,73,759,117,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000396.jpg 162,145,176,158,3 710,70,758,118,3 251,146,273,162,0 818,67,876,121,0 668,274,685,291,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000397.jpg 670,271,683,296,13 817,65,875,125,0 249,146,273,166,0 162,144,178,158,3 707,71,762,126,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000398.jpg 223,63,246,87,0 248,64,269,85,9 124,60,146,82,4
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000399.jpg 225,263,273,310,3 386,239,403,262,3 310,260,353,306,6 443,241,463,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000400.jpg 308,258,355,305,6 443,241,463,260,6 227,265,272,307,3 386,240,404,260,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000401.jpg 228,263,272,308,3 385,238,404,261,3 310,259,354,304,6 444,240,461,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000402.jpg 444,240,460,262,6 308,258,353,306,6 227,264,273,309,3 386,241,403,258,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000403.jpg 311,261,353,303,6 443,242,463,261,6 386,240,402,259,3 228,263,273,308,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000404.jpg 228,266,273,308,3 386,239,404,258,3 308,258,352,304,6 443,242,462,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000405.jpg 309,260,353,306,6 443,241,461,261,6 228,264,271,309,3 385,241,403,262,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000406.jpg 228,265,274,308,3 386,240,404,260,3 310,259,353,306,6 443,243,461,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000407.jpg 309,257,352,305,6 443,242,462,262,6 226,264,274,305,3 387,240,404,258,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000408.jpg 228,264,272,310,3 384,241,404,259,3 308,258,355,305,6 443,243,463,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000409.jpg 310,259,351,305,6 444,242,460,261,6 386,240,403,258,3 228,264,272,308,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000410.jpg 227,264,272,309,3 385,240,405,260,3 307,262,355,307,6 443,242,461,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000412.jpg 309,259,352,307,6 444,243,461,260,6 385,241,404,261,3 229,265,272,307,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000413.jpg 226,265,273,310,3 386,239,404,259,3 311,259,350,304,6 443,241,463,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000414.jpg 231,262,274,308,3 386,239,405,260,3 308,260,353,304,6 443,241,461,259,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000415.jpg 308,257,356,303,6 442,242,462,262,6 386,238,403,262,3 227,265,273,310,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000416.jpg 229,264,271,310,3 385,240,405,258,3 310,260,353,306,6 444,242,460,259,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000417.jpg 229,263,272,308,3 384,239,402,259,3 309,260,351,304,6 443,242,460,259,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000418.jpg 226,263,272,308,3 386,240,405,259,3 307,259,356,303,6 443,243,461,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000419.jpg 310,260,353,303,6 443,240,462,261,6 386,241,405,260,3 226,266,275,307,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000420.jpg 222,255,279,309,3 304,250,360,311,6 384,238,405,259,3 442,240,463,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000422.jpg 222,256,279,307,3 302,252,361,303,6 443,241,462,261,6 384,239,404,258,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000423.jpg 223,257,278,308,3 384,237,404,260,3 301,249,361,305,6 442,240,462,259,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000424.jpg 223,257,280,308,3 384,238,405,258,3 302,252,360,304,6 442,240,464,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000425.jpg 220,255,281,307,3 383,240,404,260,3 303,251,361,304,6 442,240,462,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000426.jpg 221,255,279,308,3 384,238,404,259,3 303,251,359,304,6 442,240,462,259,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000427.jpg 222,256,279,308,3 384,239,404,258,3 304,252,362,305,6 443,240,463,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000428.jpg 222,256,280,311,3 384,240,404,261,3 303,250,362,305,6 441,240,463,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000430.jpg 221,256,280,309,3 384,240,406,259,3 303,253,361,308,6 441,240,462,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000431.jpg 222,256,279,306,3 384,239,403,258,3 442,239,464,261,6 303,250,361,305,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000432.jpg 220,256,280,305,3 384,239,403,259,3 304,250,358,304,6 443,241,463,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000434.jpg 222,256,280,308,3 385,238,406,260,3 303,249,362,304,6 443,240,463,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000435.jpg 221,256,281,307,3 385,240,404,259,3 302,252,361,306,6 442,241,463,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000438.jpg 221,257,281,307,3 384,239,404,260,3 304,251,362,306,6 444,240,463,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000439.jpg 222,257,280,309,3 385,239,406,261,3 303,252,361,305,6 442,240,462,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000440.jpg 220,255,281,307,3 384,238,405,261,3 302,251,361,306,6 440,240,465,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000442.jpg 222,256,282,309,3 386,239,404,258,3 302,251,361,308,6 442,241,462,263,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000443.jpg 223,257,279,307,3 385,238,403,258,3 301,252,360,306,6 443,240,463,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000445.jpg 222,255,280,306,3 384,239,404,261,3 303,251,361,306,6 442,241,463,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000447.jpg 384,239,405,259,3 303,252,360,302,6 220,257,280,306,3 441,243,463,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000448.jpg 221,256,278,306,3 303,253,360,305,6 385,240,404,260,3 441,241,462,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000450.jpg 221,258,281,306,3 304,251,362,306,6 384,239,404,260,3 444,240,463,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000451.jpg 220,257,277,307,3 384,240,405,259,3 302,251,361,307,6 442,240,464,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000452.jpg 223,255,280,309,3 303,254,361,307,6 384,238,406,260,3 443,239,463,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000453.jpg 301,251,359,305,6 442,240,462,260,6 221,255,279,307,3 384,239,404,259,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000457.jpg 222,254,280,305,3 302,252,362,306,6 385,240,404,260,3 443,242,462,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000458.jpg 223,257,279,308,3 304,252,361,306,6 386,242,403,259,3 443,242,462,259,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000459.jpg 222,256,279,306,3 305,254,359,304,6 385,241,404,258,3 442,241,463,259,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000460.jpg 230,264,272,310,3 308,258,353,306,6 387,242,404,259,3 445,242,460,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000461.jpg 229,261,274,310,3 311,259,354,307,6 385,241,404,260,3 444,242,463,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000463.jpg 228,263,273,311,3 311,258,354,306,6 386,241,404,261,3 444,242,461,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000464.jpg 225,262,272,310,3 307,256,359,307,6 386,240,406,262,3 444,242,461,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000465.jpg 227,264,274,312,3 308,259,354,307,6 387,241,403,260,3 442,242,462,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000466.jpg 227,262,273,309,3 309,257,356,306,6 386,241,404,262,3 444,242,462,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000467.jpg 227,263,274,311,3 311,258,355,307,6 385,239,404,259,3 444,242,462,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000469.jpg 228,262,271,312,3 308,255,354,309,6 386,240,405,262,3 442,242,462,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000470.jpg 227,262,273,309,3 309,255,355,306,6 386,241,403,260,3 443,242,463,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000471.jpg 123,63,147,84,4 224,63,247,86,0 250,64,266,86,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000472.jpg 229,262,274,311,3 308,256,353,306,6 385,242,404,260,3 443,242,461,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000473.jpg 227,263,276,311,3 309,258,354,306,6 385,241,404,260,3 443,242,461,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000474.jpg 227,263,274,309,3 310,259,354,305,6 385,239,404,261,3 443,240,463,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000475.jpg 225,261,272,309,3 307,256,356,306,6 385,240,404,260,3 443,240,463,262,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000476.jpg 227,263,276,310,3 310,258,354,305,6 385,240,405,261,3 443,241,463,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000477.jpg 228,263,275,312,3 309,258,355,308,6 387,239,404,262,3 444,242,462,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000478.jpg 228,263,274,311,3 309,256,354,306,6 385,241,404,261,3 442,242,463,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000479.jpg 228,261,273,309,3 310,256,353,305,6 386,240,404,261,3 443,243,460,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000482.jpg 228,263,272,311,3 309,257,353,307,6 385,242,403,260,3 444,244,461,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000483.jpg 228,263,274,312,3 310,260,352,305,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000484.jpg 385,242,403,260,3 443,243,461,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000486.jpg 227,262,272,310,3 309,258,353,307,6 387,242,403,259,3 443,242,461,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000488.jpg 229,264,272,310,3 308,258,353,305,6 386,241,403,260,3 444,242,461,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000489.jpg 228,263,274,309,3 309,258,354,306,6 387,241,403,260,3 445,243,461,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000490.jpg 228,260,274,309,3 309,259,356,307,6 386,242,403,259,3 445,243,461,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000491.jpg 227,261,274,311,3 310,258,355,309,6 386,240,403,258,3 444,243,461,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000492.jpg 229,263,272,309,3 310,258,354,304,6 386,242,403,260,3 444,243,461,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000493.jpg 227,263,272,310,3 309,257,353,306,6 386,242,403,260,3 444,241,460,259,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000494.jpg 228,263,272,310,3 309,256,353,305,6 386,242,403,259,3 444,244,461,261,3
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000496.jpg 228,264,272,311,3 309,258,353,305,6 387,242,403,260,3 443,242,460,261,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000497.jpg 227,263,273,310,3 307,258,354,305,6 387,242,404,260,3 443,243,460,260,6
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000498.jpg 226,357,273,400,4 307,353,351,397,7 384,273,403,290,4 442,273,459,291,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000499.jpg 228,356,271,399,4 310,353,351,398,7 385,273,402,290,4 441,272,459,292,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000500.jpg 228,359,271,399,4 310,351,351,399,7 384,273,403,289,4 443,272,460,291,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000501.jpg 223,355,276,400,4 386,272,402,288,4 308,352,353,399,7 442,273,459,290,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000504.jpg 226,357,276,399,4 385,273,402,289,4 307,354,352,398,7 443,273,458,290,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000505.jpg 225,358,277,400,4 385,272,403,289,4 305,354,353,398,7 442,274,459,291,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000506.jpg 228,358,273,399,4 385,271,402,289,4 308,353,351,397,7 443,272,460,290,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000507.jpg 228,359,271,399,4 385,271,402,289,4 311,355,351,397,7 444,274,459,290,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000508.jpg 228,357,271,399,4 385,273,402,289,4 309,354,351,397,7 443,273,459,291,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000510.jpg 228,359,271,400,4 385,272,402,289,4 308,354,350,397,7 442,273,459,291,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000511.jpg 228,358,272,399,4 386,272,402,288,4 308,354,352,400,7 443,272,459,290,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000512.jpg 227,357,271,397,4 385,272,403,289,4 309,354,350,397,7 442,273,460,291,7
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000514.jpg 633,238,707,308,4 264,142,289,165,4 368,138,392,163,7 761,220,827,290,7 1220,456,1244,484,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000515.jpg 634,159,700,228,5 267,117,288,143,5 369,115,391,140,8 761,140,829,212,8 1221,456,1248,484,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000516.jpg 631,81,705,151,3 757,59,830,134,6 262,96,289,121,3 368,92,393,116,6 1222,423,1245,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000518.jpg 265,96,287,121,3 634,80,700,150,3 754,59,830,134,6 369,94,391,117,6 1221,426,1245,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000519.jpg 631,80,703,150,3 264,97,287,121,3 368,94,392,118,6 755,58,828,133,6 1222,426,1246,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000520.jpg 264,97,288,123,3 368,91,393,117,6 630,83,702,149,3 753,59,829,134,6 1219,425,1243,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000521.jpg 630,81,700,151,3 265,97,287,121,3 369,95,394,118,6 755,59,830,134,6 1220,425,1244,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000522.jpg 265,96,289,122,3 630,80,700,152,3 368,93,393,118,6 756,60,829,133,6 1220,425,1246,453,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000524.jpg 262,96,287,121,3 630,79,699,153,3 368,93,393,118,6 753,59,828,133,6 1218,424,1245,453,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000525.jpg 265,96,287,120,3 634,82,699,149,3 369,94,391,117,6 757,59,829,133,6 1220,424,1244,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000526.jpg 265,95,287,120,3 630,80,700,149,3 368,92,394,117,6 757,58,827,132,6 1220,425,1247,455,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000527.jpg 264,93,289,121,3 631,80,700,153,3 368,92,391,117,6 756,58,829,132,6 1220,422,1247,456,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000531.jpg 263,97,290,122,3 633,79,699,151,3 368,94,391,117,6 754,57,829,134,6 1218,423,1245,453,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000532.jpg 263,96,287,122,3 630,80,706,153,3 367,93,393,118,6 755,59,829,134,6 1221,424,1246,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000535.jpg 264,98,290,121,3 369,92,393,116,6 632,78,703,150,3 755,59,828,134,6 1221,423,1244,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000536.jpg 262,96,289,122,3 631,78,702,150,3 368,94,394,119,6 755,59,828,134,6 1218,425,1245,453,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000537.jpg 264,96,288,120,3 634,84,700,150,3 369,93,393,117,6 757,59,830,132,6 1219,423,1249,453,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000538.jpg 628,79,701,152,3 266,99,288,121,3 369,91,394,116,6 755,57,831,133,6 1218,423,1247,452,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000539.jpg 631,80,700,149,3 264,96,289,121,3 369,94,393,118,6 756,59,829,132,6 1219,424,1246,451,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000540.jpg 264,95,287,118,3 634,80,704,150,3 368,91,393,116,6 755,59,830,134,6 1222,427,1247,452,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000541.jpg 263,96,288,121,3 630,78,700,148,3 368,95,392,119,6 757,57,834,134,6 1219,423,1250,454,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000542.jpg 264,97,287,120,3 632,78,705,151,3 370,93,393,116,6 757,60,829,132,6 1222,425,1249,452,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000543.jpg 262,96,287,121,3 627,81,700,154,3 368,95,392,119,6 754,62,828,136,6 1220,424,1247,451,13
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000544.jpg 629,78,703,152,3 262,96,288,122,3 369,138,393,162,7 757,219,832,294,7 1220,456,1247,483,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000546.jpg 265,94,292,121,3 633,78,707,152,3 370,137,395,162,7 761,220,831,290,7 1219,457,1248,486,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000548.jpg 265,97,288,120,3 630,79,699,148,3 369,140,393,164,7 756,219,826,289,7 1220,456,1249,485,12
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000551.jpg 123,61,146,84,4 223,62,246,85,0 248,64,269,85,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000552.jpg 123,61,146,84,4 223,63,246,86,0 248,64,268,84,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000553.jpg 124,61,145,82,4 223,63,245,85,0 246,65,265,84,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000554.jpg 124,61,145,82,4 221,63,245,87,0 247,65,266,84,9
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000555.jpg 105,62,124,81,10 125,62,146,83,4 265,63,289,87,1
+E:\BaiduNetdiskDownload\yolov4-pytorch-_light_master\VOCdevkit/VOC2007/JPEGImages/000556.jpg 104,61,123,80,10 125,61,146,82,4 264,62,289,87,1
